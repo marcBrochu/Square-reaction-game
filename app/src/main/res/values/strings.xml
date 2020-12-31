@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TempsDeRéaction</string>
+    <string name="buttonStart">Cliquer sur le button pour commencer</string>
+    <string name="waitForYellow">Attendre que le button devienne Jaune...</string>
+    <string name="failure">Il faut attendre que le bouton soit devenu jaune avant de cliquer!</string>
+    <string name="clickNow">Cliquez maintenant!</string>
+    <string name="success">BON TRAVAIL!</string>
+    <string name="testComplete">Test complété</string>
+    <string name="averageIs">Temps de réaction moyen :</string>
+    <string name="attempt">Essai</string>
+    <string name="of">de</string>
+</resources>
